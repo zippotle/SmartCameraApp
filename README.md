@@ -6,6 +6,4 @@ The Smart Camera App is an android application with the purpose to detect the ob
 
 Here is what the app looks like:
 
-![alt text](http://url/to/img01.PNG)
 ![Alt text](img/img01.PNG?raw=true "img 01")
-![Screenshot](img01.PNG)
