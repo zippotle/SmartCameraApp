@@ -8,3 +8,4 @@ Here is what the app looks like:
 
 ![alt text](http://url/to/img.png)
 ![Alt text](img/img01.jpg?raw=true "img 01")
+![Screenshot](img01.png)
